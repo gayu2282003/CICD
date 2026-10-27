@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gayat\\source\\repos\\DemoAngular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3740199C-4CE0-29B7-47A9-E35257B46296}|DemoAngular\\DemoAngular.esproj|c:\\users\\gayat\\source\\repos\\demoangular\\demoangular\\karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3740199C-4CE0-29B7-47A9-E35257B46296}|DemoAngular\\DemoAngular.esproj|solutionrelative:demoangular\\karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3740199C-4CE0-29B7-47A9-E35257B46296}|DemoAngular\\DemoAngular.esproj|c:\\users\\gayat\\source\\repos\\demoangular\\demoangular\\src\\app\\static-content\\static-content.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3740199C-4CE0-29B7-47A9-E35257B46296}|DemoAngular\\DemoAngular.esproj|solutionrelative:demoangular\\src\\app\\static-content\\static-content.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3740199C-4CE0-29B7-47A9-E35257B46296}|DemoAngular\\DemoAngular.esproj|c:\\users\\gayat\\source\\repos\\demoangular\\demoangular\\.github\\workflows\\cicd.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{3740199C-4CE0-29B7-47A9-E35257B46296}|DemoAngular\\DemoAngular.esproj|solutionrelative:demoangular\\.github\\workflows\\cicd.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3740199C-4CE0-29B7-47A9-E35257B46296}|DemoAngular\\DemoAngular.esproj|c:\\users\\gayat\\source\\repos\\demoangular\\demoangular\\src\\app\\app-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3740199C-4CE0-29B7-47A9-E35257B46296}|DemoAngular\\DemoAngular.esproj|solutionrelative:demoangular\\src\\app\\app-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3740199C-4CE0-29B7-47A9-E35257B46296}|DemoAngular\\DemoAngular.esproj|c:\\users\\gayat\\source\\repos\\demoangular\\demoangular\\src\\app\\static-content\\static-content.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3740199C-4CE0-29B7-47A9-E35257B46296}|DemoAngular\\DemoAngular.esproj|solutionrelative:demoangular\\src\\app\\static-content\\static-content.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3740199C-4CE0-29B7-47A9-E35257B46296}|DemoAngular\\DemoAngular.esproj|c:\\users\\gayat\\source\\repos\\demoangular\\demoangular\\src\\app\\app-routing-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3740199C-4CE0-29B7-47A9-E35257B46296}|DemoAngular\\DemoAngular.esproj|solutionrelative:demoangular\\src\\app\\app-routing-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3740199C-4CE0-29B7-47A9-E35257B46296}|DemoAngular\\DemoAngular.esproj|c:\\users\\gayat\\source\\repos\\demoangular\\demoangular\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3740199C-4CE0-29B7-47A9-E35257B46296}|DemoAngular\\DemoAngular.esproj|solutionrelative:demoangular\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "karma.conf.js",
+              "DocumentMoniker": "C:\\Users\\gayat\\source\\repos\\DemoAngular\\DemoAngular\\karma.conf.js",
+              "RelativeDocumentMoniker": "DemoAngular\\karma.conf.js",
+              "ToolTip": "C:\\Users\\gayat\\source\\repos\\DemoAngular\\DemoAngular\\karma.conf.js",
+              "RelativeToolTip": "DemoAngular\\karma.conf.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-26T07:40:46.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cicd.yml",
+              "DocumentMoniker": "C:\\Users\\gayat\\source\\repos\\DemoAngular\\DemoAngular\\.github\\workflows\\cicd.yml",
+              "RelativeDocumentMoniker": "DemoAngular\\.github\\workflows\\cicd.yml",
+              "ToolTip": "C:\\Users\\gayat\\source\\repos\\DemoAngular\\DemoAngular\\.github\\workflows\\cicd.yml",
+              "RelativeToolTip": "DemoAngular\\.github\\workflows\\cicd.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-10-16T17:46:59.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "static-content.html",
+              "DocumentMoniker": "C:\\Users\\gayat\\source\\repos\\DemoAngular\\DemoAngular\\src\\app\\static-content\\static-content.html",
+              "RelativeDocumentMoniker": "DemoAngular\\src\\app\\static-content\\static-content.html",
+              "ToolTip": "C:\\Users\\gayat\\source\\repos\\DemoAngular\\DemoAngular\\src\\app\\static-content\\static-content.html",
+              "RelativeToolTip": "DemoAngular\\src\\app\\static-content\\static-content.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-16T10:34:43.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.html",
+              "DocumentMoniker": "C:\\Users\\gayat\\source\\repos\\DemoAngular\\DemoAngular\\src\\app\\app.html",
+              "RelativeDocumentMoniker": "DemoAngular\\src\\app\\app.html",
+              "ToolTip": "C:\\Users\\gayat\\source\\repos\\DemoAngular\\DemoAngular\\src\\app\\app.html",
+              "RelativeToolTip": "DemoAngular\\src\\app\\app.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-16T09:51:57.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app-routing-module.ts",
+              "DocumentMoniker": "C:\\Users\\gayat\\source\\repos\\DemoAngular\\DemoAngular\\src\\app\\app-routing-module.ts",
+              "RelativeDocumentMoniker": "DemoAngular\\src\\app\\app-routing-module.ts",
+              "ToolTip": "C:\\Users\\gayat\\source\\repos\\DemoAngular\\DemoAngular\\src\\app\\app-routing-module.ts",
+              "RelativeToolTip": "DemoAngular\\src\\app\\app-routing-module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-16T09:46:19.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "static-content.ts",
+              "DocumentMoniker": "C:\\Users\\gayat\\source\\repos\\DemoAngular\\DemoAngular\\src\\app\\static-content\\static-content.ts",
+              "RelativeDocumentMoniker": "DemoAngular\\src\\app\\static-content\\static-content.ts",
+              "ToolTip": "C:\\Users\\gayat\\source\\repos\\DemoAngular\\DemoAngular\\src\\app\\static-content\\static-content.ts",
+              "RelativeToolTip": "DemoAngular\\src\\app\\static-content\\static-content.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-16T09:44:53.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app-module.ts",
+              "DocumentMoniker": "C:\\Users\\gayat\\source\\repos\\DemoAngular\\DemoAngular\\src\\app\\app-module.ts",
+              "RelativeDocumentMoniker": "DemoAngular\\src\\app\\app-module.ts",
+              "ToolTip": "C:\\Users\\gayat\\source\\repos\\DemoAngular\\DemoAngular\\src\\app\\app-module.ts",
+              "RelativeToolTip": "DemoAngular\\src\\app\\app-module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-16T06:33:23.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
