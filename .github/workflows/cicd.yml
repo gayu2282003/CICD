@@ -1,0 +1,38 @@
+name: Docker Build and Test
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  docker-build-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Build Docker image
+        run: docker build -t demo-angular:${{ github.sha }} ./DemoAngular
+
+      - name: Run container
+        run: docker run -d --name demo-angular-container -p 8080:80 demo-angular:${{ github.sha }}
+
+      - name: Wait for nginx to start
+        run: sleep 5
+
+      - name: Test home page
+        run: curl --fail --silent --show-error --output /dev/null http://localhost:8080
+
+      - name: Test route refresh (nginx fallback)
+        run: curl --fail --silent --show-error --output /dev/null http://localhost:8080/some-random-route
+
+      - name: Show container logs on failure
+        if: failure()
+        run: docker logs demo-angular-container
+
+      - name: Cleanup
+        if: always()
+        run: docker rm -f demo-angular-container 
